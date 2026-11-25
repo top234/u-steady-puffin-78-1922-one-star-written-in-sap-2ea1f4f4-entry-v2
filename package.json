@@ -1,0 +1,9 @@
+{
+  "name": "u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4-entry-v2",
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "render": "node main.ts",
+    "start": "node main.ts"
+  }
+}
